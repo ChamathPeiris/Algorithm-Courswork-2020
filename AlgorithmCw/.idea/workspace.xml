@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="39326a31-44d1-48ac-b3af-8a899cb5eb93" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Zc3K6ATEZw02XfN8L3r2tfqwuD" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/Algo/stdLib/stdlib.jar!/" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.14257812" />
+    <property name="project.structure.side.proportion" value="0.23663254" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Algo" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Acer\IdeaProjects\AlgorithmCw\src\Algo\stdLib" />
+      <recent name="C:\Users\Acer\IdeaProjects\AlgorithmCw\src\Algo" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.MaxFlow">
+    <configuration name="MaxFlow" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Algo.MaxFlow" />
+      <module name="AlgorithmCw" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value=".*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MaxFlowRandom" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MaxFlowRandom" />
+      <module name="AlgorithmJagath" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value=".*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MaxFlowUserInput" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MaxFlowUserInput" />
+      <module name="AlgorithmJagath" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value=".*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MaxFlow" />
+        <item itemvalue="Application.MaxFlowRandom" />
+        <item itemvalue="Application.MaxFlowUserInput" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="39326a31-44d1-48ac-b3af-8a899cb5eb93" name="Default Changelist" comment="" />
+      <created>1585124487966</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585124487966</updated>
+      <workItem from="1585124490688" duration="6236000" />
+      <workItem from="1585205322639" duration="3445000" />
+      <workItem from="1585290357230" duration="18067000" />
+      <workItem from="1585374160872" duration="27192000" />
+      <workItem from="1585465859550" duration="179000" />
+      <workItem from="1585466130756" duration="10961000" />
+      <workItem from="1585491338924" duration="242000" />
+      <workItem from="1585499341339" duration="842000" />
+      <workItem from="1585535280568" duration="414000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="574" y="128" key="#com.intellij.ide.util.MemberChooser" timestamp="1585307890883">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="574" y="128" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1585307890883" />
+    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1585467279022">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1585467279022" />
+    <state x="473" y="154" key="FileChooserDialogImpl" timestamp="1585468705345">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="473" y="154" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1585468705345" />
+    <state width="1493" height="115" key="GridCell.Tab.0.bottom" timestamp="1585500183063">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="115" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1585500183063" />
+    <state width="1493" height="115" key="GridCell.Tab.0.center" timestamp="1585500183062">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="115" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1585500183062" />
+    <state width="1493" height="115" key="GridCell.Tab.0.left" timestamp="1585500183062">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="115" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1585500183062" />
+    <state width="1493" height="115" key="GridCell.Tab.0.right" timestamp="1585500183063">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="115" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1585500183063" />
+    <state width="1493" height="356" key="GridCell.Tab.1.bottom" timestamp="1585489364158">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="356" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1585489364158" />
+    <state width="1493" height="356" key="GridCell.Tab.1.center" timestamp="1585489364158">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="356" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1585489364158" />
+    <state width="1493" height="356" key="GridCell.Tab.1.left" timestamp="1585489364158">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="356" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1585489364158" />
+    <state width="1493" height="356" key="GridCell.Tab.1.right" timestamp="1585489364158">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="356" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1585489364158" />
+    <state x="249" y="0" key="SettingsEditor" timestamp="1585468715557">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="249" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1585468715557" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/AlgorithmCw$MaxFlow.ic" NAME="MaxFlow Coverage Results" MODIFIED="1585314521908" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Algo.*</FILTER>
+    </SUITE>
+  </component>
+</project>
